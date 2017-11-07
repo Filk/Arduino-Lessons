@@ -13,13 +13,13 @@ Make: A blinking LED
 Hacking stuff, DIY and Nicolas Collins
 
 Lesson 3.
-Explain: buttons, potenciometers and the code in the Arduino IDE
+Explain: buttons, RGB Led, potenciometers and the code in the Arduino IDE
 Make: make a blinking LED and use buttons to turn it on or off
 Jamming
-Show and tell: RGB clothing box and André Rangel
+Show and tell: RGB clothing box and André Rangel (http://3kta.net/3projects.php)
 
 Lesson 4.
-Explain: PWM, LDR, dc motors, transistors and diodes
+Explain: PWM, LDR, dc motors, transistors, diodes and the Serial monitor in the IDE
 Make: make a motor spin faster or slower according to the distance to the brightness
 Jamming
 Show and tell: Quadrature and Ars Electronica
@@ -30,7 +30,7 @@ Make: make a servo motor spin acording to the distance to the ultrasound sensor
 Show and tell: Robotic gamelan at Casa da Música and OrCA
 
 Lesson 6.
-Explain: Pressor sensors, Relays, capacitive sensing and Mosfets
+Explain: Pressor sensors, Relays, capacitive sensing, Mosfets and datasheets
 Make: control a bunch of light bulbs and house appliances using a ultrasound sensor
 Show and tell: Rui Penha SONAE
 
@@ -59,6 +59,7 @@ Explain: Fritzing
 Make: Jamming and student projects
 
 Lesson 12.
+Make: Student projects
 
 Lesson 13.
 
