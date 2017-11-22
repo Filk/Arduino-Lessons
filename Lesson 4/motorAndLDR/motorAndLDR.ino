@@ -15,7 +15,7 @@ void loop() {
   //leitura do pin analógico 0 (entre 0 e 1023 = 10 bits)
   Serial.println(x);
   //leitura do mesmo pin mas mapeada para valores entre 0 e 255
-  Serial.println(map(x,0,1023,0,255));
+  //Serial.println(x);
 
   if(x>50)
   {
