@@ -35,12 +35,12 @@ Make: control a bunch of light bulbs and house appliances using a ultrasound sen
 Show and tell: Rui Penha SONAE
 
 Lesson 7.
-Explain: Solenoids and serial communication
+Explain: Solenoids and External Libraries
 Make: create a small robotic instrument and control an mp3 player (DFrobot)
 Show and tell: Ajay Kapur and Logos Fundation
 
 Lesson 8.
-Explain: Standard Firmata and connection with other software
+Explain: Standard Firmata and connections with other software
 Make: Control a sketch in Processing using sensors
 Show and tell: Cant(a)eiro
 
@@ -55,13 +55,15 @@ Make: Jamming and student projects
 Show and tell: Zimound
 
 Lesson 11.
-Explain: Fritzing
+Explain: IoT example (e.g. Particle Photon)
 Make: Jamming and student projects
 
 Lesson 12.
-Make: Student projects
+Explain: Fritzing
+Make: Jamming and student projects
 
 Lesson 13.
+Make: Student projects
 
 Lesson 14.
 
