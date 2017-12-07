@@ -31,7 +31,7 @@ Make: 	1) make a servo motor spin according to the distance to the ultrasound se
 Show and tell: Robotic gamelan at Casa da Música and OrCA
 
 Lesson 6.
-Explain: Pressor sensors, capacitive sensing and datasheets
+Explain: Tilt Sensor, Pressor sensors, capacitive sensing and datasheets
 Make: control a bunch of led’s using a pressor sensor
 Show and tell: Rui Penha SONAE
 
